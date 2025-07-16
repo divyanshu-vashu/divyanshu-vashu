@@ -23,3 +23,26 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu-vashu&show_icons=true&locale=en&layout=compact" alt="divyanshu-vashu" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanshu-vashu&show_icons=true&locale=en" alt="divyanshu-vashu" /></p>
+
+
+
+
+
+
+---
+
+## 🧰 My Projects
+
+### 🔧 Backend Projects
+- 🚀 [Bitcoin Price Alert](https://github.com/Divyanshu2004/bitcoin-price-alert) – Django, WebSockets
+- 🔒 [Auth Service](https://github.com/Divyanshu2004/auth-service) – REST API, JWT
+
+### 🎨 Frontend Projects
+- 💻 [React Portfolio](https://github.com/Divyanshu2004/react-portfolio)
+- 📊 [Dashboard UI](https://github.com/Divyanshu2004/dashboard-ui)
+
+### 🏢 AI
+- 🧪 
+- 🌐 
+
+---
