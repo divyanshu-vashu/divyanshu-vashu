@@ -33,16 +33,52 @@
 
 ## 🧰 My Projects
 
-### 🔧 Backend Projects
-- 🚀 [Bitcoin Price Alert](https://github.com/Divyanshu2004/bitcoin-price-alert) – Django, WebSockets
-- 🔒 [Auth Service](https://github.com/Divyanshu2004/auth-service) – REST API, JWT
-
 ### 🎨 Frontend Projects
-- 💻 [React Portfolio](https://github.com/Divyanshu2004/react-portfolio)
-- 📊 [Dashboard UI](https://github.com/Divyanshu2004/dashboard-ui)
+-  [Portfolio](https://github.com/divyanshu-vashu/divyanshu.git) - React , JS 
+-  [ev car analysis dashboard ](https://github.com/divyanshu-vashu/EV-WASHINGTON-DATA-ANALYSIS-WITH-AI-CHAT.git) - React
+-  [Email Template Maker](https://github.com/divyanshu-vashu/sentry-email-dashboard.git) - React
+-  [Email template Maker -2](https://github.com/divyanshu-vashu/drag-drop-email-creator.git) - React
+-  [Apl live](https://github.com/divyanshu-vashu/apllive.git) [live project](https://apllive.vercel.app/) - React
+-  [score dashboard](https://github.com/divyanshu-vashu/Badminton-Score_Web.git) - React
+-  [desk-avr](deskavr.vercel.app) - React
+-  [Apna TrioBook](apnatriobook.onrender.com/) - React
+-  [Transport Log](https://github.com/divyanshu-vashu/sunymedi_front.git) - React
+-  [Admin Spectov Dashboard](https://github.com/divyanshu-vashu/admin_spectov_frontend.git) - private
+-  [TicTacToe Game](https://github.com/divyanshu-vashu/tictoc-game.git) - JS
 
 ### 🏢 AI
-- 🧪 
-- 🌐 
+- [Ai Agent Editor ](https://github.com/divyanshu-vashu/vscode-ai-extension.git) [link2](https://github.com/divyanshu-vashu/vi-vs_code-inteligience.git) - Ai Agent , GenAI , Rag ,Embedding model , llm
+- [audio to text local](https://github.com/divyanshu-vashu/audio-to-text.git) - llm , voice to text
+- [MCP Server](https://github.com/divyanshu-vashu/MCP-SERVER-PG.git) - MCP,
+- [Weather Ai Agent](https://github.com/divyanshu-vashu/weather-ai_agent.git) - JS , LLM , GenAI
+
+### Software 
+- [BAdmintion Room Android App](https://github.com/divyanshu-vashu/3s-shuttle-stream-score.git) - ReactNAtive, WebSocket
+- [Git Switch Shell Automation ](https://github.com/divyanshu-vashu/gitswitch-ssh.git) - Shell
+- [Azure](https://github.com/divyanshu-vashu/Exploring-Azure.git) - Azure cloud
+- [LoadCell Realtime Monitoring](https://github.com/divyanshu-vashu/Loadcell-iot.git) -IOT , Arduino
+- 
+
+### 🔧 Backend Projects
+-  [Ai Chat analasis](https://github.com/divyanshu-vashu/EV-WASHINGTON-DATA-ANALYSIS-WITH-AI-CHAT/tree/main/backend) - postgresql, typescript
+-  [Dependency Injection](https://github.com/divyanshu-vashu/explore-uber-fx.git) - fx , GO
+-  [gRPC](https://github.com/divyanshu-vashu/explore-grpc.git) - gRPC , GO
+-  [Notification System ](https://github.com/divyanshu-vashu/notification-system.git) - GO , Kafka , Redis ,Postgresql , aws sns
+-  [Stateless Auth](https://github.com/divyanshu-vashu/stateless-auth-go.git) - Go , Auth Service
+-  [Convert cpp code into wasm](https://github.com/divyanshu-vashu/web-assembly.git) - JS , Web-Assembly
+-  [Web based ide - local](https://github.com/divyanshu-vashu/web-ide.git) - js
+-  [webhook alert](https://github.com/divyanshu-vashu/apnaBlog-webhook.git) - webhook
+-  [Badmintion Server](https://github.com/divyanshu-vashu/badmintan_ws_server.git) - Go ,WebSocket
+-  [Sim Recharger Manager](https://github.com/divyanshu-vashu/sim_render.git) - Mail , GO
+-  [DeskAvr](https://github.com/divyanshu-vashu/DeskAVR-backend.git) -JS
+-  [Sync_mysql_GoogleSheet](https://github.com/divyanshu-vashu/Sync_mysql_GoogleSheet.git) - js , automation, sql
+-  [Secure Messaging](https://github.com/divyanshu-vashu/Fortifying-_Communication-_with_Blockchain_Technology.git) - BloackChain
+-  [ApnaTrioBook](https://github.com/divyanshu-vashu/ApnaTrioBook.git) - NodeJS, middleware , Auth
+-  [e-learner hub](https://github.com/divyanshu-vashu/videotube.git) - Nodejs, Auth , Middleware ,Claudnary
+-  [Todo App](https://github.com/divyanshu-vashu/todo-model-chaiwithcode.git) - Js
+-  [Transport Data Server](https://github.com/divyanshu-vashu/sunymedi_backend.git) - NodeJS
+-  [Bitcoin Tracker](https://github.com/divyanshu-vashu/TanX.git) - Python , Flask
+-  [Admin Dashboard- spectov](https://github.com/divyanshu-vashu/admin_spectov_backend.git)
+-  [Ecommerce](https://github.com/divyanshu-vashu/Ecommerce-site-with-Django.git) - Django , Python
 
 ---
