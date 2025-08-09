@@ -45,12 +45,14 @@
 -  [Transport Log](https://github.com/divyanshu-vashu/sunymedi_front.git) - React
 -  [Admin Spectov Dashboard](https://github.com/divyanshu-vashu/admin_spectov_frontend.git) - private
 -  [TicTacToe Game](https://github.com/divyanshu-vashu/tictoc-game.git) - JS
+-  [Ai Agentic ChatBot](https://github.com/divyanshu-vashu/agentic-chat.ai) - NextJs , LLM , AI
 
 ### 🏢 AI
 - [Ai Agent Editor ](https://github.com/divyanshu-vashu/vscode-ai-extension.git) [link2](https://github.com/divyanshu-vashu/vi-vs_code-inteligience.git) - Ai Agent , GenAI , Rag ,Embedding model , llm
 - [audio to text local](https://github.com/divyanshu-vashu/audio-to-text.git) - llm , voice to text
 - [MCP Server](https://github.com/divyanshu-vashu/MCP-SERVER-PG.git) - MCP,
 - [Weather Ai Agent](https://github.com/divyanshu-vashu/weather-ai_agent.git) - JS , LLM , GenAI
+- [Ai Agentic ChatBot](https://github.com/divyanshu-vashu/agentic-chat.ai) - NextJs , LLM , AI
 
 ### Software 
 - [BAdmintion Room Android App](https://github.com/divyanshu-vashu/3s-shuttle-stream-score.git) - ReactNAtive, WebSocket
