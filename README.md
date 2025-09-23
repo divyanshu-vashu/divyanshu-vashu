@@ -45,6 +45,7 @@
 - [Azure](https://github.com/divyanshu-vashu/Exploring-Azure.git) - Azure cloud
 - [LoadCell Realtime Monitoring](https://github.com/divyanshu-vashu/Loadcell-iot.git) -IOT , Arduino
 - [NumGuru Android Game](https://github.com/divyanshu-vashu/NumGuru-Game) - ReactNative
+- [Forward Proxy - to save tcp call](https://github.com/divyanshu-vashu/forward-proxy) - TCP,Socket,Forwardproxy,Frame-Protocol
 
 ### 🎨 Frontend Projects
 -  [Portfolio](https://github.com/divyanshu-vashu/divyanshu.git) - React , JS 
