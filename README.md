@@ -32,6 +32,19 @@
 ---
 
 ## 🧰 My Projects
+### 🏢 AI
+- [Ai Agent Editor ](https://github.com/divyanshu-vashu/vscode-ai-extension.git) [link2](https://github.com/divyanshu-vashu/vi-vs_code-inteligience.git) - Ai Agent , GenAI , Rag ,Embedding model , llm
+- [audio to text local](https://github.com/divyanshu-vashu/audio-to-text.git) - llm , voice to text
+- [MCP Server](https://github.com/divyanshu-vashu/MCP-SERVER-PG.git) - MCP,
+- [Weather Ai Agent](https://github.com/divyanshu-vashu/weather-ai_agent.git) - JS , LLM , GenAI
+- [Ai Agentic ChatBot](https://github.com/divyanshu-vashu/agentic-chat.ai) - NextJs , LLM , AI
+
+### Software 
+- [BAdmintion Room Android App](https://github.com/divyanshu-vashu/3s-shuttle-stream-score.git) - ReactNAtive, WebSocket
+- [Git Switch Shell Automation ](https://github.com/divyanshu-vashu/gitswitch-ssh.git) - Shell
+- [Azure](https://github.com/divyanshu-vashu/Exploring-Azure.git) - Azure cloud
+- [LoadCell Realtime Monitoring](https://github.com/divyanshu-vashu/Loadcell-iot.git) -IOT , Arduino
+- [NumGuru Android Game](https://github.com/divyanshu-vashu/NumGuru-Game) - ReactNative
 
 ### 🎨 Frontend Projects
 -  [Portfolio](https://github.com/divyanshu-vashu/divyanshu.git) - React , JS 
@@ -47,19 +60,6 @@
 -  [TicTacToe Game](https://github.com/divyanshu-vashu/tictoc-game.git) - JS
 -  [Ai Agentic ChatBot](https://github.com/divyanshu-vashu/agentic-chat.ai) - NextJs , LLM , AI
 
-### 🏢 AI
-- [Ai Agent Editor ](https://github.com/divyanshu-vashu/vscode-ai-extension.git) [link2](https://github.com/divyanshu-vashu/vi-vs_code-inteligience.git) - Ai Agent , GenAI , Rag ,Embedding model , llm
-- [audio to text local](https://github.com/divyanshu-vashu/audio-to-text.git) - llm , voice to text
-- [MCP Server](https://github.com/divyanshu-vashu/MCP-SERVER-PG.git) - MCP,
-- [Weather Ai Agent](https://github.com/divyanshu-vashu/weather-ai_agent.git) - JS , LLM , GenAI
-- [Ai Agentic ChatBot](https://github.com/divyanshu-vashu/agentic-chat.ai) - NextJs , LLM , AI
-
-### Software 
-- [BAdmintion Room Android App](https://github.com/divyanshu-vashu/3s-shuttle-stream-score.git) - ReactNAtive, WebSocket
-- [Git Switch Shell Automation ](https://github.com/divyanshu-vashu/gitswitch-ssh.git) - Shell
-- [Azure](https://github.com/divyanshu-vashu/Exploring-Azure.git) - Azure cloud
-- [LoadCell Realtime Monitoring](https://github.com/divyanshu-vashu/Loadcell-iot.git) -IOT , Arduino
-- 
 
 ### 🔧 Backend Projects
 -  [Ai Chat analasis](https://github.com/divyanshu-vashu/EV-WASHINGTON-DATA-ANALYSIS-WITH-AI-CHAT/tree/main/backend) - postgresql, typescript
