@@ -59,6 +59,7 @@
 -  [Admin Spectov Dashboard](https://github.com/divyanshu-vashu/admin_spectov_frontend.git) - private
 -  [TicTacToe Game](https://github.com/divyanshu-vashu/tictoc-game.git) - JS
 -  [Ai Agentic ChatBot](https://github.com/divyanshu-vashu/agentic-chat.ai) - NextJs , LLM , AI
+-  [Freelancing project](https://github.com/divyanshu-vashu/yetix-cleaning) - NextJs ,React
 
 
 ### 🔧 Backend Projects
