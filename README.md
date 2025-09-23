@@ -38,6 +38,7 @@
 - [MCP Server](https://github.com/divyanshu-vashu/MCP-SERVER-PG.git) - MCP,
 - [Weather Ai Agent](https://github.com/divyanshu-vashu/weather-ai_agent.git) - JS , LLM , GenAI
 - [Ai Agentic ChatBot](https://github.com/divyanshu-vashu/agentic-chat.ai) - NextJs , LLM , AI
+- [Anydata into RAG](https://github.com/divyanshu-vashu/AnyData_Rag_Pipeline) - Python, lagchain, RAG,VectorDB
 
 ### Software 
 - [BAdmintion Room Android App](https://github.com/divyanshu-vashu/3s-shuttle-stream-score.git) - ReactNAtive, WebSocket
