@@ -47,6 +47,12 @@
 - [LoadCell Realtime Monitoring](https://github.com/divyanshu-vashu/Loadcell-iot.git) -IOT , Arduino
 - [NumGuru Android Game](https://github.com/divyanshu-vashu/NumGuru-Game) - ReactNative
 - [Forward Proxy - to save tcp call](https://github.com/divyanshu-vashu/forward-proxy) - TCP,Socket,Forwardproxy,Frame-Protocol
+- [XamDost](https://github.com/divyanshu-vashu/XamDost-BugRix) - Electron
+
+### FreeLancing Projects: 
+- [Edtech Web](https://github.com/divyanshu-vashu/zylearnn) - React
+- [Cleaning Company](https://github.com/divyanshu-vashu/yetix-cleaning) - NextJs ,React
+- [3d Design](https://github.com/divyanshu-vashu/threejs-sjd) - Threejs,React
 
 ### 🎨 Frontend Projects
 -  [Portfolio](https://github.com/divyanshu-vashu/divyanshu.git) - React , JS 
@@ -61,7 +67,6 @@
 -  [Admin Spectov Dashboard](https://github.com/divyanshu-vashu/admin_spectov_frontend.git) - private
 -  [TicTacToe Game](https://github.com/divyanshu-vashu/tictoc-game.git) - JS
 -  [Ai Agentic ChatBot](https://github.com/divyanshu-vashu/agentic-chat.ai) - NextJs , LLM , AI
--  [Freelancing project](https://github.com/divyanshu-vashu/yetix-cleaning) - NextJs ,React
 -  [Special Character Remover](https://github.com/divyanshu-vashu/remove-special-char) - React
 
 
